@@ -1,5 +1,5 @@
 import 'package:conversor_moedas/app/models/currency_model.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class HomeController{
   late List<CurrencyModel> currencies;
